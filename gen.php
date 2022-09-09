@@ -49,7 +49,7 @@
           <a href="#" class="d-block">Alexander Pierce</a>
         </div>
       </div>
-
+<br>
       <!-- Sidebar Menu -->
       <nav class="mt-2">
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
